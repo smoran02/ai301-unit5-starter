@@ -47,4 +47,4 @@ The wild has no gold labels, so this unit ships no eval set. The
 regression instrument for your patched rubric is Unit 1's harness,
 unchanged: run it from the `eval/` directory of your
 [Unit 1 materials](https://github.com/smoran02/ai301-unit1-starter)
-clone, as the Activity tab's homework describes.
+clone, as the Activity tab's after-class steps describe.
