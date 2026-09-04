@@ -29,7 +29,8 @@ clone:
 
 Yours, kept: `rubric.md`, `references/evidence-guide.md`, and the fit
 profile you paste back into the new `scope.md`. If the install clobbers
-any of them, restore them from your `ai301-tools` repo.
+any of them, restore them from your course repo (the Module 1
+`tools/issue-select/` upload holds all three).
 
 ## Run a scan
 
